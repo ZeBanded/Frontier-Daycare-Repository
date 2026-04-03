@@ -32,7 +32,7 @@ Quantities are listed *without* the 2x Item Bonus. Dates are listed in this form
 
 ### Getting 2x Item Bonus
 
-Set your system clock to `2044-05-06 14:33:00` and print one item anytime within the next ten seconds.
+Set your system clock to `2044-05-06 15:33:00` and print one item anytime within the next ten seconds.
 
 ### Getting Poke Ball Lotto
 
