@@ -16,13 +16,15 @@ This guide outlines the most efficient ways to obtain each target Pokemon, liste
     - Z-A = Legends: Z-A
     - FRLG = FireRed/LeafGreen
     - "DLC" or "+ DLC" means that game's DLC is required
-- Breeding is almost always very easy and, in modern games, allows forcing a specific Nature and Ability. For many Pokemon, this will be very efficient and result in minor VP savings; however, for some, it will be slow due to long egg cycles. These are the Switch games with breeding, from most to least efficient:
+- Encounter rates less than or equal to 5% are not listed unless they're the only repeatable method for that game.
+- Breeding is almost always very easy and, in modern games, allows forcing a specific Nature and Ability. For many Pokemon, this will be very efficient and result in some VP savings; however, for some, it will be slow due to long egg cycles. These are the Switch games with breeding, from most to least efficient:
     - SV
     - SwSh
     - BDSP
     - FRLG
-- Encounter rates less than or equal to 5% are not listed unless they're the only repeatable method for that game.
-- LGPE allows [forcing a specific Nature](https://bulbapedia.bulbagarden.net/wiki/Celadon_City#Fortune_Teller) for *all spawns* for the day. Paired with [Catch Combos](https://bulbapedia.bulbagarden.net/wiki/Catch_Combo), this is a very efficient way to catch Kanto Pokemon with the correct Nature for a minor VP saving.
+- LGPE allows [forcing a specific Nature](https://bulbapedia.bulbagarden.net/wiki/Celadon_City#Fortune_Teller) for *all spawns* for the day. Paired with [Catch Combos](https://bulbapedia.bulbagarden.net/wiki/Catch_Combo), this is a very efficient way to catch Kanto Pokemon with the correct Nature to save some VP.
+- Champions does not use IVs, so you don't need to worry about them.
+- Moves often don't take much effort to change, and all signs point to a Pokemon's moves remaining intact in Champions so long as they're implemented, so it's recommended to set at least some desired moves to help players save VP.
 - SV spawner maps for Paldea and Kitakami can be found [here](https://spo.ink/sv_maps) ([source](https://x.com/vbbcla/status/1706057570652242371)).
 
 ## Venusaur
