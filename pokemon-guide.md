@@ -2,6 +2,8 @@
 
 This guide outlines the most efficient ways to obtain each target Pokemon, listed in Pokedex order. Games for each target are sorted from most to least efficient.
 
+To easily jump to a certain Pokemon, use the "Outline" button ![](/images/github-outline.png).
+
 > [!NOTE]
 > This guide contains information for FireRed and LeafGreen. At the time of writing, it is *not yet possible* to transfer Pokemon from these games to HOME. The information is still listed for posterity.
 
