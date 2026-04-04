@@ -93,18 +93,6 @@ Girafarig can be evolved into Farigiraf by teaching it Twin Beam, then leveling 
 
 - **SV:** Both Girafarig and Farigiraf can be found in [Area Zero](https://bulbapedia.bulbagarden.net/wiki/Area_Zero).
 
-## Gholdengo
-
-Available in SV, Z-A + DLC, and GO, only by evolving Gimmighoul.
-
-To evolve Gimmighoul, [have 999 Coins](/SV/gimmighoul-coins.md), then induce the evolution, either by leveling it up in SV or using the menu in Z-A and GO.
-
-### Gimmighoul
-
-- **SV:** Chest Form Gimmighoul can be found in certain spots throughout Paldea, most easily atop watchtowers. One Chest Form Gimmighoul has a 5% chance of respawning every in-game day.
-- **Z-A + DLC:** Chest Form Gimmighoul can be found as a Special Scan in Hyperspace Lumiose.
-- **GO + SV:** Roaming Form Gimmighoul can be found by using the Coin Bag once per day, which is obtained and refreshed daily by linking with SV. This cannot be dateskipped, as the daily check is performed in GO at midnight local time.
-
 ## Archaludon
 
 Only available in SV + DLC by evolving Duraludon.
@@ -120,3 +108,13 @@ Duraludon is available in SwSh, as well as SV + DLC.
     - Guaranteed daily wanderer at [Giant's Seat](https://bulbapedia.bulbagarden.net/wiki/Giant%27s_Seat#Wanderers)
     - Gigantamax sometimes appears in any red-beam Max Raid Battle from [Wild Area News](https://bulbapedia.bulbagarden.net/wiki/Wild_Area_News#November_1,_2022,_to_End-of-life)
     - **DLC:** Purple-beam Max Raid Battles at Path to the Peak [Den B](https://bulbapedia.bulbagarden.net/wiki/Path_to_the_Peak/Dens#B)
+
+## Unconfirmed Pokemon
+
+The Pokemon listed here are not yet confirmed to be in Pokemon Champions at the time of writing, but are still listed for posterity.
+
+### Gholdengo
+
+Available in SV, Z-A + DLC, and GO, only by evolving Gimmighoul.
+
+To evolve Gimmighoul, [have 999 Coins](/SV/gimmighoul-coins.md), then induce the evolution, either by leveling it up in SV or using the menu in Z-A and GO.
