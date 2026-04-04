@@ -304,3 +304,18 @@ x14 Dark Tera Shard
 x3 Shiny Stone
 x3 Shiny Stone
 ```
+
+### EXP candies
+
+```
+Time: 2033-02-08 10:48:09
+Seed: 1991472489
+1040000 exp
+x10 Exp. Candy XL
+x4 Protein
+x20 Exp. Candy L
+x8 Exp. Candy XL
+x10 Exp. Candy XL
+```
+
+Seed found by Anubis on his Item Printer seed Github [here](https://gist.github.com/Lusamine/25f5eb30e7d6dace1828283795aae456)

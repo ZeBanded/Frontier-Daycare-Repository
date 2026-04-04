@@ -17,14 +17,18 @@ With the Premium plan, you can deposit up to three Pokemon at once; otherwise, y
 
 ## Using the GTS to trade
 
-For the purposes of the Frontier Daycare, the person *receiving* the competitive Pokemon should make the deposit; otherwise, the competitive Pokemon will almost certainly be sniped.
+For the purposes of the Frontier Daycare, the person *receiving* the competitive Pokemon should make the deposit.
 
-Tap "Deposit Pokemon", or one of the empty green boxes. A Pokemon selection menu will appear. Select a junk Pokemon, like Fletchling.
+Tap "Deposit Pokemon", or one of the empty green boxes. A Pokemon selection menu will appear. Select a Fletchling.
 
 ![alt text](/images/home-mobile/gts-deposit.png)
 
-Set "Pokemon wanted" to the Pokemon you are about to receive. Leave all other options alone.
+Set "Pokemon wanted" to the Pokemon you are about to receive. Select the form if applicable (E.g. Rotom Wash and Rotom Heat).
 
 Tap "Continue with these conditions", and the Pokemon will be deposited!
 
 It won't be long until the trade is completed. When it is, the "GTS" button and the Pokemon on the GTS screen will both have red exclamation marks. Tap the Pokemon, and the trade will complete on your end! (There's no rush to do this; your trade partner has already sent the Pokemon, so they're already done.)
+
+## What if I don't have a Fletchling?
+
+If you cannot catch your own Fletchling, you may deposit any junk Pokemon onto the GTS with the same procedure, and select the "Pokemon wanted" as Fletchling. Alternatively, you may ask the server directly for help.
