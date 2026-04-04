@@ -1,5 +1,8 @@
 # Farming Gimmighoul Coins in Scarlet/Violet
 
+> [!NOTE]
+> Gholdengo is not yet confirmed for Pokemon Champions. This guide is still provided for posterity.
+
 First, if it's been a decent while (more than a few days), go through your game and grab the Coins from as many Roaming and Chest Gimmighoul as you can find. Serebii.net's [Paldea Pokearth](https://www.serebii.net/pokearth/paldea/) has separate toggles for Roaming and Chest Gimmighoul.
 
 [Sending a Postcard from Pokemon GO](/GO/connect-sv.md) will also net 50-100 Coins. This can be done once a day.
