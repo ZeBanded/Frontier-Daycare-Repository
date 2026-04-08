@@ -172,7 +172,7 @@ In Pokemon GO, Charcadet instead evolves with 50 Charcadet Candy, as well as hav
 
 ### Charcadet
 
-- **SV:** WIP
+- **SV:** Making a Fire Encounter sandwich where you fought the Titan Bombirdier results in isolated encounters for Charcadet.
 - **Z-A + DLC:** Charcadet can be found in [2⭐ Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones).
 
 ## Scovillain
