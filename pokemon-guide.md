@@ -59,9 +59,78 @@ This line is generally best bred.
     - At the Lake of Outrage, it has a 5% chance to appear in purple beams at [Den C](https://bulbapedia.bulbagarden.net/wiki/Lake_of_Outrage/Dens#C).
 - **FRLG:** Charmander is a starter Pokemon choice.
 
-## Flapple, Appletun, and Hydrapple
+### Chesnaught
 
-### Flapple and Appletun
+Available in SV + DLC, Z-A, and GO.
+
+> [!NOTE]
+> An [ongoing promotion](https://champions-news.pokemon-home.com/en/page/716.html) gives players a free Chesnaughtite when they send a Chesnaught caught in Z-A to visit. Therefore, effort should be made to give Chesnaught caught in Z-A rather than other games.
+
+If not considering the above notice, this line is generally best bred.
+
+- **Z-A:** Chespin can be found in [Wild Zone 17](https://bulbapedia.bulbagarden.net/wiki/Wild_Zone_17).
+- **Z-A + DLC:** The entire evolutionary line can be found in [Grass-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Grass-type_hyperspace_wild_zones).
+- **SV + DLC:** Chespin can be found in [Chargestone Cavern](https://bulbapedia.bulbagarden.net/wiki/Chargestone_Cavern). It is the only Grass-type that appears there, so making a Grass Encounter sandwich will result in isolated encounters for Chespin. It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+
+### Delphox
+
+Available in SV + DLC, Z-A, and GO.
+
+> [!NOTE]
+> An [ongoing promotion](https://champions-news.pokemon-home.com/en/page/716.html) gives players a free Delphoxite when they send a Delphox caught in Z-A to visit. Therefore, effort should be made to give Delphox caught in Z-A rather than other games.
+
+If not considering the above notice, this line is generally best bred.
+
+- **Z-A:** Fennekin can be found in [Wild Zone 18](https://bulbapedia.bulbagarden.net/wiki/Wild_Zone_18).
+- **Z-A + DLC:** The entire evolutionary line can be found in [Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones).
+- **SV + DLC:** Fennekin can be found in a [particular region](https://bulbapedia.bulbagarden.net/wiki/Savanna_Biome#Midwest_Savanna) of the Savanna Biome. Making a Fire Encounter sandwich will cause only it and the Litleo and Magby lines to appear. It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+
+### Greninja
+
+Available in SV + DLC, Z-A, and GO.
+
+> [!NOTE]
+> An [ongoing promotion](https://champions-news.pokemon-home.com/en/page/716.html) gives players a free Greninjite when they send a Greninja caught in Z-A to visit. Therefore, effort should be made to give Greninja caught in Z-A rather than other games.
+
+If not considering the above notice, this line is generally best bred.
+
+- **Z-A:** Froakie can be found in [Wild Zone 16](https://bulbapedia.bulbagarden.net/wiki/Wild_Zone_16).
+- **Z-A + DLC:** The entire evolutionary line can be found in [Water-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Water-type_hyperspace_wild_zones).
+- **SV + DLC:** Froakie can be found in the [Coastal Biome](https://bulbapedia.bulbagarden.net/wiki/Coastal_Biome). It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+
+### Decidueye
+
+**Alolan Decidueye:** Available in SwSh + DLC, SV + DLC, and GO.
+
+**Hisuian Decidueye:** Only available in PLA in space-time distortions and massive mass outbreaks, or by evolving Dartrix.
+
+This line is generally best bred.
+
+- **SV + DLC:** Rowlet can be found in the [Savanna Biome](https://bulbapedia.bulbagarden.net/wiki/Savanna_Biome). It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+- **PLA:** The entire evolutionary line can be found in [space-time distortions](https://bulbapedia.bulbagarden.net/wiki/Space-time_distortion) and massive [mass outbreaks](https://bulbapedia.bulbagarden.net/wiki/Mass_outbreak#Pok%C3%A9mon_Legends:_Arceus) in the [Coronet Highlands](https://bulbapedia.bulbagarden.net/wiki/Coronet_Highlands).
+- **SwSh + DLC:** Only if Grookey was chosen as your starter Pokemon, Rowlet is available as a one-time gift for finding at least 100 Alolan Diglett scattered around the Isle of Armor.
+
+### Incineroar
+
+Available in SwSh + DLC, SV + DLC, and GO.
+
+This line is generally best bred.
+
+- **SV + DLC:** Litten can be found in the [Canyon Biome](https://bulbapedia.bulbagarden.net/wiki/Canyon_Biome). It is the only Fire-type that appears there, so making a Fire Encounter sandwich will result in isolated encounters for Litten. It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+- **SwSh + DLC:** Only if Scorbunny was chosen as your starter Pokemon, Litten is available as a one-time gift for finding at least 100 Alolan Diglett scattered around the Isle of Armor.
+
+### Primarina
+
+Available in SwSh + DLC, SV + DLC, and GO.
+
+This line is generally best bred.
+
+- **SV + DLC:** Popplio can be found in the [Coastal Biome](https://bulbapedia.bulbagarden.net/wiki/Coastal_Biome). It can also appear as a [mass outbreak](https://bulbapedia.bulbagarden.net/wiki/List_of_mass_outbreaks_in_the_Terarium).
+- **SwSh + DLC:** Only if Sobble was chosen as your starter Pokemon, Popplio is available as a one-time gift for finding at least 100 Alolan Diglett scattered around the Isle of Armor.
+
+### Flapple, Appletun, and Hydrapple
+
+#### Flapple and Appletun
 
 Applin evolves into Flapple when a Tart Apple is used on it, or Appletun when a Sweet Apple is used.
 
