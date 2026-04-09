@@ -29,7 +29,11 @@ To easily jump to a certain Pokemon, use the "Outline" button ![](/images/github
 - Moves often don't take much effort to change, and all signs point to a Pokemon's moves remaining intact in Champions so long as they're implemented, so it's recommended to set at least some desired moves to help players save VP.
 - SV spawner maps for Paldea and Kitakami can be found [here](https://spo.ink/sv_maps) ([source](https://x.com/vbbcla/status/1706057570652242371)).
 
-## Venusaur
+## Regulation Set M-A
+
+The list currently contains Pokemon eligible for [Regulation Set M-A](https://champions-news.pokemon-home.com/en/page/751.html).
+
+### Venusaur
 
 Available in LGPE, SwSh + DLC, BDSP, SV + DLC, Z-A, FRLG, and GO.
 
@@ -40,7 +44,7 @@ This line is generally best bred.
 - **SwSh + DLC:** Venusaur can be found in Max Raid Battles at the Forest of Focus, in [Den A](https://bulbapedia.bulbagarden.net/wiki/Forest_of_Focus/Dens#A). One Bulbasaur is also a gift option in the Isle of Armor storyline.
 - **FRLG:** Bulbasaur is a starter Pokemon choice.
 
-## Charizard
+### Charizard
 
 Available in all Switch games and GO.
 
@@ -65,7 +69,7 @@ In SV, both Tart and Sweet Apples can be purchased from any [Delibird Presents](
 
 In SwSh, Tart Apples are exclusive to Sword, while Sweet Apples are exclusive to Shield. They can be found found as hidden items at [Axew's Eye](https://bulbapedia.bulbagarden.net/wiki/Axew%27s_Eye). With DLC, they can also be found at [Loop Lagoon](https://bulbapedia.bulbagarden.net/wiki/Loop_Lagoon) and the [Soothing Wetlands](https://bulbapedia.bulbagarden.net/wiki/Soothing_Wetlands), though in significantly fewer quantities.
 
-### Hydrapple
+#### Hydrapple
 
 Only available in SV + DLC by evolving Dipplin, which evolves from Applin.
 
@@ -73,36 +77,22 @@ To evolve Applin into Dipplin, use a Syrupy Apple, which is purchaseable from th
 
 To evolve Dipplin into Hydrapple, teach it Dragon Cheer using TM226, then induce the evolution by leveling it up. TM226 needs Tatsugiri Scales, Lapras Teardrops, and Applin Juice.
 
-### Applin
+#### Applin
 
 - **SV + DLC:** Applin is easily found on the apple trees along the path through Apple Hills in Kitakami.
 - **SV:** WIP
 - **SwSh:** WIP
 
-## Ursaluna
+### Sneasler
 
-Only available in PLA in Massive Mass Outbreaks, or by evolving from Ursaring. The latter is significantly more efficient, as [Peat Blocks can easily be farmed](/PLA/ursaluna-dig-farm.md).
-
-To evolve Ursaring, sleep until night until it becomes a full moon, then use the Peat Block.
-
-### Ursaring
-
-- **SV:** At Fury Falls (the bamboo forest area of [North Province (Area Two)](https://bulbapedia.bulbagarden.net/wiki/North_Province_(Area_Two))), making a Normal Encounter Sandwich will cause Teddiursa and Ursaring to appear in large numbers. In Violet, this is a completely isolated encounter; in Scarlet, Oranguru will also appear.
-- **PLA:**
-    - Two Alpha Ursaring [always appear](https://bulbapedia.bulbagarden.net/wiki/Alpha_Pok%C3%A9mon#Crimson_Mirelands) in Crimson Mirelands. Teddiursa can often be found near them, too.
-    - Ursaring and Teddiursa can be found along the [Sonorous Path](https://bulbapedia.bulbagarden.net/wiki/Sonorous_Path).
-- **Shining Pearl:** Teddiursa appears in the Grand Underground.
-
-## Sneasler
-
-Outside of PLA Massive Mass Outbreaks, Sneasler is obtained by evolving Hisuian Sneasel, which can only be initially obtained in PLA.
+Outside of PLA massive mass outbreaks, Sneasler is obtained by evolving Hisuian Sneasel, which can only be initially obtained in PLA.
 
 This line is generally best bred.
 
 - **SV + PLA:** Transfer Hisuian Sneasel into SV from PLA, breed it while it's holding an Everstone, and purchase Razor Claws from Delibird Presents in Mesagoza to evolve them.
-- **PLA:** Hisuian Sneasel can be found in Coronet Highlands and Alabaster Icelands. Razor Claws can be bought for 1400 MP.
+- **PLA:** Hisuian Sneasel can be found in the [Coronet Highlands](https://bulbapedia.bulbagarden.net/wiki/Coronet_Highlands) and [Alabaster Icelands](https://bulbapedia.bulbagarden.net/wiki/Alabaster_Icelands). Razor Claws can be bought for 1400 MP.
 
-## Meowscarada
+### Meowscarada
 
 Available in SV and GO by evolving Sprigatito.
 
@@ -111,7 +101,7 @@ This line is generally best bred.
 - **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
 - **SV:** Sprigatito is a starter Pokemon choice.
 
-## Skeledirge
+### Skeledirge
 
 Available in SV and GO by evolving Fuecoco.
 
@@ -120,7 +110,7 @@ This line is generally best bred.
 - **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
 - **SV:** Fuecoco is a starter Pokemon choice.
 
-## Quaquaval
+### Quaquaval
 
 Available in SV and GO by evolving Quaxly.
 
@@ -129,7 +119,7 @@ This line is generally best bred.
 - **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
 - **SV:** Quaxly is a starter Pokemon choice.
 
-## Pawmot
+### Pawmot
 
 Available in SV and GO.
 
@@ -137,7 +127,7 @@ In SV, Pawmot itself is only available in 5⭐ and 6⭐ Tera Raids in Paldea. Ot
 
 To evolve Pawmo, you must have it out of its Poke Ball while walking 1000 steps, then induce the evolution by leveling it up. The step counter resets if the game is closed, or if you take steps while a Pokemon that does not evolve this way is sent out. The step counter does *not* reset upon evolution, so you can evolve Pawmo in bulk by leveling them up without walking 1000 steps repeatedly.
 
-## Maushold
+### Maushold
 
 Available in SV and GO.
 
@@ -145,18 +135,18 @@ In SV, Maushold itself is only available in 4⭐ and 5⭐ Tera Raids in Paldea. 
 
 Maushold's forms do not affect battles. (Family of Four is one pound lighter, but this does not change the damage taken from Low Kick or Grass Knot.)
 
-### Tandemaus
+#### Tandemaus
 
 - **SV:** Tandemaus can be found on the path leading up to the Pokemon League.
 
-## Garganacl
+### Garganacl
 
 Available in SV, Z-A + DLC, and GO.
 
 - **SV:** Naclstack and Garganacl can be found near rocky ledges in Area Zero.
 - **Z-A + DLC:** The entire evolution line can be found in [Rock-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Rock-type_hyperspace_wild_zones).
 
-## Armarouge and Ceruledge
+### Armarouge and Ceruledge
 
 Available in SV, Z-A + DLC, and GO.
 
@@ -170,19 +160,19 @@ To evolve Charcadet into Armarouge, use an Auspicious Armor on it. To evolve Cha
 
 In Pokemon GO, Charcadet instead evolves with 50 Charcadet Candy, as well as having it defeat 30 Psychic-type Pokemon for Armarouge or 30 Ghost-type Pokemon for Ceruledge.
 
-### Charcadet
+#### Charcadet
 
 - **SV:** Making a Fire Encounter sandwich where you fought the Titan Bombirdier results in isolated encounters for Charcadet.
 - **Z-A + DLC:** Charcadet can be found in [2⭐ Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones).
 
-## Scovillain
+### Scovillain
 
 Available in SV, Z-A + DLC, and GO.
 
 - **SV:** WIP
 - **Z-A + DLC:** The entire evolution line appears in [3⭐ Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones), as well as in [2⭐ and 3⭐ Grass-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Grass-type_hyperspace_wild_zones).
 
-## Tinkaton
+### Tinkaton
 
 Available in SV, Z-A + DLC, and GO.
 
@@ -191,7 +181,7 @@ Available in SV, Z-A + DLC, and GO.
     - It also appears on [Ruins spawners](https://bulbapedia.bulbagarden.net/wiki/Biome#Ruins) at [South Province (Area Six)](https://bulbapedia.bulbagarden.net/wiki/South_Province_(Area_Six)). Notably, it appears alongside Bronzong, which Scarlet players can grind for Bronzor Fragments for Charcadet evolution items.
 - **Z-A + DLC:** The entire evolution line appears in [Steel-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Steel-type_hyperspace_wild_zones). Tinkatuff and Tinkaton appear in [4⭐ Fairy-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fairy-type_hyperspace_wild_zones).
 
-## Palafin
+### Palafin
 
 Available in SV and GO.
 
@@ -199,17 +189,17 @@ In SV, Palafin itself is only available in 5⭐ Tera Raids in Paldea, and otherw
 
 The most efficient way to obtain Palafin is to form a Union Circle with a second Switch, and then catch and evolve Finizen en masse. If you don't have a second Switch, you will need to form frequent Union Circles with other players.
 
-### Finizen
+#### Finizen
 
 - **SV:** Finizen can be found in the ocean surrounding Paldea.
 
-## Orthworm
+### Orthworm
 
 Available in SV and GO.
 
 - **SV:** Orthworm can be found in [East Province (Area Three)](https://bulbapedia.bulbagarden.net/wiki/East_Province_(Area_Three)).
 
-## Glimmora
+### Glimmora
 
 Available in SV, Z-A + DLC, and GO.
 
@@ -218,14 +208,14 @@ Available in SV, Z-A + DLC, and GO.
     - **DLC:** A large number of guaranteed Glimmet and Glimmora appear in the [Area Zero Underdepths](https://bulbapedia.bulbagarden.net/wiki/Area_Zero_Underdepths#Pok%C3%A9mon).
 - **Z-A + DLC:** Glimmet and Glimmora can be found in [Rock-type](https://bulbapedia.bulbagarden.net/wiki/List_of_Rock-type_hyperspace_wild_zones) and [Poison-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Poison-type_hyperspace_wild_zones).
 
-## Dondozo
+### Dondozo
 
 Available in SV, Z-A + DLC, and GO.
 
 - **SV:** Dondozo can be found at Casseroya Lake.
 - **Z-A + DLC:** Dondozo can be found in [4⭐ Water-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Water-type_hyperspace_wild_zones#4%E2%98%85).
 
-## Tatsugiri
+### Tatsugiri
 
 Available in SV, Z-A + DLC, and GO.
 
@@ -234,7 +224,7 @@ Note that Tatsugiri's form changes what stat is boosted when paired with Dondozo
 - **SV:** All three forms of Tatsugiri can be found very commonly at Casseroya Lake.
 - **Z-A + DLC:** All three forms of Tatsugiri can be found in [4⭐ Water-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Water-type_hyperspace_wild_zones#4%E2%98%85).
 
-## Farigiraf
+### Farigiraf
 
 Only available in SV.
 
@@ -242,7 +232,7 @@ Girafarig can be evolved into Farigiraf by teaching it Twin Beam, then leveling 
 
 - **SV:** Both Girafarig and Farigiraf can be found in [Area Zero](https://bulbapedia.bulbagarden.net/wiki/Area_Zero).
 
-## Kingambit
+### Kingambit
 
 Only available in SV by evolving Bisharp.
 
@@ -250,7 +240,7 @@ To evolve Bisharp, fly to Fury Falls (the bamboo forest area of [North Province 
 
 Bisharp already holding a Leader's Crest can be found at Fury Falls, so catching and evolving those will be very efficient. Making a Steel Encounter sandwich will cause only the Pawniard line to spawn.
 
-## Sinistcha
+### Sinistcha
 
 Only available in SV + DLC by evolving Poltchageist.
 
@@ -258,13 +248,13 @@ To evolve Poltchageist, use either an Unremarkable Teacup or Masterpiece Teacup,
 
 Poltchageist can be found in in [Reveler's Road](https://bulbapedia.bulbagarden.net/wiki/Reveler%27s_Road) from [Bamboo Forest spawners](https://bulbapedia.bulbagarden.net/wiki/Biome#Bamboo_Forest). It can also be found in 3⭐ Tera Raids in Kitakami.
 
-## Archaludon
+### Archaludon
 
 Only available in SV + DLC by evolving Duraludon.
 
 To evolve Duraludon, use a Metal Alloy on it. Metal Alloys can easily be farmed using [Item Printer RNG manipulation](/SV/printer-manip.md).
 
-### Duraludon
+#### Duraludon
 
 Duraludon is available in SwSh, as well as SV + DLC.
 
@@ -274,9 +264,37 @@ Duraludon is available in SwSh, as well as SV + DLC.
     - Gigantamax sometimes appears in any red-beam Max Raid Battle from [Wild Area News](https://bulbapedia.bulbagarden.net/wiki/Wild_Area_News#November_1,_2022,_to_End-of-life)
     - **DLC:** Purple-beam Max Raid Battles at Path to the Peak [Den B](https://bulbapedia.bulbagarden.net/wiki/Path_to_the_Peak/Dens#B)
 
-## Unconfirmed Pokemon
+### Eternal Flower Floette
 
-The Pokemon listed here are not yet confirmed to be in Pokemon Champions at the time of writing, but are still listed for posterity.
+Eternal Flower Floette is only available in Z-A's postgame as a one-time gift, after completing 15 reward matches in the Infinite Z-A Royale.
+
+Because of how time-consuming Eternal Flower Floette is to obtain, it shouldn't be expected of breeders to give them away.
+
+## Other Pokemon
+
+At the time of writing, the Pokemon listed here either are not usable in Pokemon Champions, or are in Pokemon Champions but not eligible in the current Regulation Set. They are still listed for posterity.
+
+### Ursaluna
+
+#### Regular
+
+Only available in PLA in massive mass outbreaks, or by evolving from Ursaring. The latter is significantly more efficient, as [Peat Blocks can easily be farmed](/PLA/ursaluna-dig-farm.md).
+
+To evolve Ursaring, sleep until night until it becomes a full moon, then use the Peat Block.
+
+##### Ursaring
+
+- **SV:** At Fury Falls (the bamboo forest area of [North Province (Area Two)](https://bulbapedia.bulbagarden.net/wiki/North_Province_(Area_Two))), making a Normal Encounter Sandwich will cause Teddiursa and Ursaring to appear in large numbers. In Violet, this is a completely isolated encounter; in Scarlet, Oranguru will also appear.
+- **PLA:**
+    - Two Alpha Ursaring [always appear](https://bulbapedia.bulbagarden.net/wiki/Alpha_Pok%C3%A9mon#Crimson_Mirelands) in the Crimson Mirelands. Teddiursa can often be found near them, too.
+    - Ursaring and Teddiursa can be found along the [Sonorous Path](https://bulbapedia.bulbagarden.net/wiki/Sonorous_Path).
+- **Shining Pearl:** Teddiursa appears in the Grand Underground.
+
+#### Bloodmoon
+
+Bloodmoon Ursaluna is only available in SV + DLC as a one-time special encounter in Kitakami. This requires beating the entire main game, then registering over 150 Pokemon in the Kitakami Pokedex, before completing a sidequest.
+
+Because of how time-consuming Bloodmoon Ursaluna is to obtain, it shouldn't be expected of breeders to give them away.
 
 ### Gholdengo
 
