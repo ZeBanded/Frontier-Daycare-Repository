@@ -21,7 +21,7 @@ If you haven't yet connected Pokemon GO to Pokemon HOME, follow the instructions
 
 Take note of your remaining GO Transporter Energy. It caps at 10,000 points, and refills over the span of a week, limiting how often you can send Pokemon. While regular Pokemon won't impact it very much, Shiny, Legendary, and Mythical Pokemon will heavily drain your GO Transporter Energy. If your Pokemon is one of the original 151, an Alolan form, Meltan, or Melmetal, you may want to instead [transfer to Let's Go! Pikachu/Eevee](/GO/transfer-lgpe.md) if possible.
 
-It isn't recommended to power up your Pokemon before sending to HOME. This wastes Stardust and Candy, higher-leveled Pokemon use more GO Transporter Energy, and you can level up your Pokemon in main series games anyway.
+It isn't recommended to power up or evolve your Pokemon before sending to HOME. This wastes Stardust and Candy, higher-leveled Pokemon use more GO Transporter Energy, and you can level up your Pokemon in main series games anyway.
 
 ![](/images/go/transporter-energy.png)
 

@@ -21,7 +21,7 @@ Custom Sandwich ⭐⭐⭐
 
 Ingredients:
 Top baguette has been dropped
-4x Tofu, 2x Watercress (drop 1), 2x Pepper, 2x Salt
+4x Tofu, 2x Watercress (drop 2), 2x Pepper, 2x Salt
 
 Effects:
 Exp. Point Power: Normal - Lv. 1
