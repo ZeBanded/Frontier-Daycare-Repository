@@ -32,7 +32,7 @@ Similar to the Switch version, you may select up to 30 Pokemon to visit Pokemon 
 
 ![](/images/home-mobile/Pokemon-Home-mobile-transfer-select.png)
 
-##Collecting in Pokemon Champions
+## Collecting in Pokemon Champions
 In Pokemon Champions, in the recruit menu, select "Collect from Pokemon Home", then receive your visitor Pokemon
 
 ![](/images/Champions/Champions-Ranch-Collect-from-home.jpg)

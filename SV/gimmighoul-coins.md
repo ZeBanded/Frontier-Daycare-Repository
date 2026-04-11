@@ -1,7 +1,7 @@
 # Farming Gimmighoul Coins
 
 > [!NOTE]
-> Gholdengo is not yet confirmed for Pokemon Champions. This guide is still provided for posterity.
+> Gholdengo is not yet usable in Pokemon Champions. This guide is still provided for posterity.
 
 ## Scarlet/Violet
 

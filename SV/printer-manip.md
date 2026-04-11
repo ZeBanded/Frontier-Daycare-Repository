@@ -58,6 +58,20 @@ One second early: 18x Dark Shard, 12x Fire Shard, 9x Big Bamboo Shoot, 4x Balm M
 
 One second late: 19x Dark Shard, 7x Pearl, 1x Spell Tag, 2x Flower Sweet, 2x Ribbon Sweet
 
+### EXP Candies
+
+```
+Time: 2033-02-08 10:48:09
+Seed: 1991472489
+x5 Exp. Candy XL
+x2 Protein
+x10 Exp. Candy L
+x4 Exp. Candy XL
+x5 Exp. Candy XL
+```
+
+Seed found by Anubis [here](https://gist.github.com/Lusamine/25f5eb30e7d6dace1828283795aae456).
+
 ### 6 Unremarkable Teacups
 
 ```
@@ -304,18 +318,3 @@ x14 Dark Tera Shard
 x3 Shiny Stone
 x3 Shiny Stone
 ```
-
-### EXP candies
-
-```
-Time: 2033-02-08 10:48:09
-Seed: 1991472489
-1040000 exp
-x10 Exp. Candy XL
-x4 Protein
-x20 Exp. Candy L
-x8 Exp. Candy XL
-x10 Exp. Candy XL
-```
-
-Seed found by Anubis on his Item Printer seed Github [here](https://gist.github.com/Lusamine/25f5eb30e7d6dace1828283795aae456)

@@ -38,4 +38,4 @@ The Poke Job should now be done, go back to the Pokemon Center and collect it!
 
 ![](/images/swsh/poke-job-complete-3.png)
 
-Note that Pokemon will not evolve via Poke Jobs. You will need to use candies to cause any evolutions.
+Note that Pokemon will not evolve via Poke Jobs; you'll still need to use candies to evolve the Pokemon.
